@@ -1,0 +1,13 @@
+/Users/hogni/Documents/github.com/klumhru/com.klumhru.unity.metrics/plugin~/libs/netstandard2.1/PrometheusClient.deps.json
+/Users/hogni/Documents/github.com/klumhru/com.klumhru.unity.metrics/plugin~/libs/netstandard2.1/PrometheusClient.dll
+/Users/hogni/Documents/github.com/klumhru/com.klumhru.unity.metrics/plugin~/libs/netstandard2.1/PrometheusClient.pdb
+/Users/hogni/Documents/github.com/klumhru/com.klumhru.unity.metrics/plugin~/PrometheusClient/obj/Debug/netstandard2.1/PrometheusClient.csproj.AssemblyReference.cache
+/Users/hogni/Documents/github.com/klumhru/com.klumhru.unity.metrics/plugin~/PrometheusClient/obj/Debug/netstandard2.1/PrometheusClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hogni/Documents/github.com/klumhru/com.klumhru.unity.metrics/plugin~/PrometheusClient/obj/Debug/netstandard2.1/PrometheusClient.AssemblyInfoInputs.cache
+/Users/hogni/Documents/github.com/klumhru/com.klumhru.unity.metrics/plugin~/PrometheusClient/obj/Debug/netstandard2.1/PrometheusClient.AssemblyInfo.cs
+/Users/hogni/Documents/github.com/klumhru/com.klumhru.unity.metrics/plugin~/PrometheusClient/obj/Debug/netstandard2.1/PrometheusClient.csproj.CoreCompileInputs.cache
+/Users/hogni/Documents/github.com/klumhru/com.klumhru.unity.metrics/plugin~/PrometheusClient/obj/Debug/netstandard2.1/PrometheusClient.dll
+/Users/hogni/Documents/github.com/klumhru/com.klumhru.unity.metrics/plugin~/PrometheusClient/obj/Debug/netstandard2.1/PrometheusClient.pdb
+/Users/hogni/Documents/github.com/klumhru/com.klumhru.unity.metrics/libs/netstandard2.1/PrometheusClient.deps.json
+/Users/hogni/Documents/github.com/klumhru/com.klumhru.unity.metrics/libs/netstandard2.1/PrometheusClient.dll
+/Users/hogni/Documents/github.com/klumhru/com.klumhru.unity.metrics/libs/netstandard2.1/PrometheusClient.pdb

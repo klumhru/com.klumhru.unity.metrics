@@ -1,0 +1,17 @@
+{
+    "name": "Aaron.Metrics",
+    "rootNamespace": "Aaron.Metrics",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Prometheus.NetStandard.dll",
+        "PrometheusClient.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

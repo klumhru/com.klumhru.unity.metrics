@@ -1,0 +1,31 @@
+version: '3'
+
+services:
+  prometheus:
+    image: prom/prometheus:v2.26.0
+    volumes:
+      - ./prometheus:/etc/prometheus
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'
+      - '--storage.tsdb.path=/prometheus'
+      - '--web.enable-lifecycle'
+    ports:
+      - '9090:9090'
+
+  pushgateway:
+    image: prom/pushgateway:v1.3.0
+    ports:
+      - '9091:9091'
+
+  grafana:
+    image: grafana/grafana:7.4.5
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+      - GF_SECURITY_ADMIN_USER=admin
+    volumes:
+      - grafana-storage:/var/lib/grafana
+    ports:
+      - '3000:3000'
+
+volumes:
+  grafana-storage:

@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = PrometheusClient
+build_property.ProjectDir = /Users/hogni/Documents/github.com/klumhru/com.klumhru.unity.metrics/plugin~/PrometheusClient/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

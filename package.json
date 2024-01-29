@@ -1,0 +1,20 @@
+{
+  "name": "com.klumhru.unity.metrics",
+  "version": "1.0.0",
+  "displayName": "Aaron.Metrics",
+  "description": "Contains Components to send metrics to a Prometheus PushGateway.",
+  "unity": "2022.3",
+  "unityRelease": "1f1",
+  "documentationUrl": "https://klumhru.com/docs/unity/metrics",
+  "keywords": [
+    "klumhru.com",
+    "unity",
+    "metrics"
+  ],
+  "dependencies": {},
+  "author": {
+    "name": "H\u00f6gni Gylfason",
+    "url": "https://klumhru.com",
+    "email": "klumhru@klumhru.com"
+  }
+}

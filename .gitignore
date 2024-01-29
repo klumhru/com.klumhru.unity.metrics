@@ -1,0 +1,7 @@
+*.zip
+*.cer
+*.p8
+*.mobileprovision
+*.ipa
+# Ignore all DS_Store files across the project
+**/.DS_Store
